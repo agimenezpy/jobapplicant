@@ -1,0 +1,25 @@
+- model: application.ListaValor
+  pk: NTN
+  fields:
+    nombre: Relación
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: NTN001
+    etiqueta: Paraguayo
+    orden: 1
+    categoria: NTN
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: NTN002
+    etiqueta: Argentino
+    orden: 2
+    categoria: NTN
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: NTN003
+    etiqueta: Brasilero
+    orden: 3
+    categoria: NTN

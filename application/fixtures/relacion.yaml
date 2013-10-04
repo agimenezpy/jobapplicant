@@ -1,0 +1,25 @@
+- model: application.ListaValor
+  pk: REL
+  fields:
+    nombre: Relación
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: REL001
+    etiqueta: Padre
+    orden: 1
+    categoria: REL
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: REL002
+    etiqueta: Madre
+    orden: 2
+    categoria: REL
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: REL003
+    etiqueta: Hermano/a
+    orden: 3
+    categoria: REL

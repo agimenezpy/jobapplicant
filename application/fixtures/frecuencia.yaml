@@ -1,0 +1,25 @@
+- model: application.ListaValor
+  pk: FRQ
+  fields:
+    nombre: Frecuencia
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: FRQ001
+    etiqueta: Nunca
+    orden: 1
+    categoria: FRQ
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: FRQ002
+    etiqueta: Socialmente
+    orden: 2
+    categoria: FRQ
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: FRQ003
+    etiqueta: Siempre
+    orden: 3
+    categoria: FRQ

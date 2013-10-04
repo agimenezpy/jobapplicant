@@ -1,0 +1,25 @@
+- model: application.ListaValor
+  pk: MEAS
+  fields:
+    nombre: Seguro médico
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MEAS000
+    etiqueta: Ninguno
+    orden: 1
+    categoria: MEAS
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MEAS001
+    etiqueta: ASISMED
+    orden: 2
+    categoria: MEAS
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MEAS002
+    etiqueta: MEDILIFE
+    orden: 3
+    categoria: MEAS

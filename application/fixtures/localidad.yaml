@@ -1,0 +1,164 @@
+- model: application.ListaValor
+  pk: LOC
+  fields:
+    nombre: Localidad
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC000
+    etiqueta: ASUNCION
+    descripcion: ASUNCION
+    orden: 0
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC001
+    etiqueta: AREGUA
+    descripcion: CENTRAL
+    orden: 1
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC002
+    etiqueta: CAPIATA
+    descripcion: CENTRAL
+    orden: 2
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC003
+    etiqueta: FERNANDO DE LA MORA
+    descripcion: CENTRAL
+    orden: 3
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC004
+    etiqueta: GUARAMBARE
+    descripcion: CENTRAL
+    orden: 4
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC005
+    etiqueta: ITA
+    descripcion: CENTRAL
+    orden: 5
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC006
+    etiqueta: ITAUGUA
+    descripcion: CENTRAL
+    orden: 6
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC007
+    etiqueta: LAMBARE
+    descripcion: CENTRAL
+    orden: 7
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC008
+    etiqueta: LIMPIO
+    descripcion: CENTRAL
+    orden: 8
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC009
+    etiqueta: LUQUE
+    descripcion: CENTRAL
+    orden: 9
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC010
+    etiqueta: MARIANO ROQUE ALONSO
+    descripcion: CENTRAL
+    orden: 10
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC011
+    etiqueta: NUEVA ITALIA
+    descripcion: CENTRAL
+    orden: 11
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC012
+    etiqueta: ÑEMBY
+    descripcion: CENTRAL
+    orden: 12
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC013
+    etiqueta: SAN ANTONIO
+    descripcion: CENTRAL
+    orden: 13
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC014
+    etiqueta: SAN LORENZO
+    descripcion: CENTRAL
+    orden: 14
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC015
+    etiqueta: VILLA ELISA
+    descripcion: CENTRAL
+    orden: 15
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC016
+    etiqueta: VILLETA
+    descripcion: CENTRAL
+    orden: 16
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC017
+    etiqueta: YPACARAI
+    descripcion: CENTRAL
+    orden: 17
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC018
+    etiqueta: YPANE
+    descripcion: CENTRAL
+    orden: 18
+    categoria: LOC
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: LOC019
+    etiqueta: SALDIVAR
+    descripcion: CENTRAL
+    orden: 19
+    categoria: LOC

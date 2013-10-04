@@ -1,0 +1,25 @@
+- model: application.ListaValor
+  pk: MAR
+  fields:
+    nombre: Estado civil
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MAR001
+    etiqueta: Soltero
+    orden: 1
+    categoria: MAR
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MAR002
+    etiqueta: Casado
+    orden: 2
+    categoria: MAR
+- model: application.ListaItem
+  pk: null
+  fields:
+    codigo: MAR003
+    etiqueta: Viudo
+    orden: 3
+    categoria: MAR
